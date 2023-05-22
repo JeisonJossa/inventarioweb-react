@@ -1,0 +1,70 @@
+[
+  {
+    "idpantalla": 1,
+    "nombrepantalla": "alertas_stock_minimo"
+  },
+  {
+    "idpantalla": 2,
+    "nombrepantalla": "cambio_contrasena"
+  },
+  {
+    "idpantalla": 3,
+    "nombrepantalla": "exportar_datos_inventario"
+  },
+  {
+    "idpantalla": 4,
+    "nombrepantalla": "generar_informe_inventario"
+  },
+  {
+    "idpantalla": 5,
+    "nombrepantalla": "agregar_movimiento_inventario"
+  },
+  {
+    "idpantalla": 6,
+    "nombrepantalla": "editar_movimiento_inventario"
+  },
+  {
+    "idpantalla": 7,
+    "nombrepantalla": "eliminar_movimiento_inventario"
+  },
+  {
+    "idpantalla": 8,
+    "nombrepantalla": "listar_movimientos_inventario"
+  },
+  {
+    "idpantalla": 9,
+    "nombrepantalla": "agregar_producto"
+  },
+  {
+    "idpantalla": 10,
+    "nombrepantalla": "editar_producto"
+  },
+  {
+    "idpantalla": 11,
+    "nombrepantalla": "eliminar_producto"
+  },
+  {
+    "idpantalla": 12,
+    "nombrepantalla": "listar_productos"
+  },
+  {
+    "idpantalla": 13,
+    "nombrepantalla": "ver_detalle_producto"
+  },
+  {
+    "idpantalla": 14,
+    "nombrepantalla": "agregar_usuario"
+  },
+  {
+    "idpantalla": 15,
+    "nombrepantalla": "editar_usuario"
+  },
+  {
+    "idpantalla": 16,
+    "nombrepantalla": "eliminar_usuario"
+  },
+  {
+    "idpantalla": 17,
+    "nombrepantalla": "listar_usuarios"
+  }
+]

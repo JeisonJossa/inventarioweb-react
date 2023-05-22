@@ -1,0 +1,137 @@
+
+/* diseno.css */
+
+/* Estilos para la cabecera */
+.cabecera {
+    background-color: #f5f5f5;
+    font-size: 24px;
+    padding: 10px;
+}
+
+
+
+
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif; /* Fuente predeterminada para el cuerpo del documento */
+    font-size: 16px; /* Tamaño de fuente predeterminado para el cuerpo del documento */
+    color: #333; /* Color de texto predeterminado para el cuerpo del documento */
+    line-height: 1.6; /* Altura de línea predeterminada para el cuerpo del documento */
+}
+
+.container {
+    width: 80%; /* Ancho del contenedor para que se vea bien en dispositivos de diferentes tamaños */
+    margin: auto; /* Mantiene el contenedor en el centro de la página */
+    overflow: hidden; /* Evita que el contenido del contenedor se desborde */
+}
+
+/* Estilos para Cabecera */
+.cabecera {
+    background-color: #f4f4f4; /* Color de fondo de la cabecera */
+    padding: 1rem; /* Espacio de relleno para la cabecera */
+    text-align: center; /* Centra el contenido de la cabecera */
+}
+
+.cabecera h1 {
+    font-size: 24px; /* Tamaño de fuente para el título de la cabecera */
+}
+
+/* Estilos para Pie de página */
+.pie_pagina {
+    background-color: #333; /* Color de fondo del pie de página */
+    padding: 1rem; /* Espacio de relleno para el pie de página */
+    text-align: center; /* Centra el contenido del pie de página */
+    color: #f4f4f4; /* Color de texto predeterminado para los elementos del pie de página */
+    margin: 0px 0; /* Establece el margen superior e inferior en 0 */
+    position: fixed; /* Fija el pie de página en la parte inferior de la ventana del navegador */
+    bottom: 0; /* Establece la posición del pie de página en la parte inferior de la ventana del navegador */
+    left: 0; /* Establece la posición del pie de página en la esquina inferior izquierda de la ventana del navegador */
+    right: 0; /* Establece la posición del pie de página en la esquina inferior derecha de la ventana del navegador */
+}
+
+/* Estilos para Menú */
+.menu {
+    background-color: #333; /* Color de fondo del menú */
+    overflow: hidden; /* Evita que el contenido del menú se desborde */
+}
+
+.menu a {
+    display: block; /* Convierte los elementos de anclaje en bloques para ocupar todo el ancho del menú */
+    color: #f4f4f4; /* Color de texto predeterminado para los elementos de anclaje del menú */
+    text-align: center; /* Centra el contenido de los elementos de anclaje del menú */
+    padding: 1rem; /* Espacio de relleno para los elementos de anclaje del menú */
+    text-decoration: none; /* Quita el subrayado de los elementos de anclaje del menú */
+}
+
+.menu a:hover {
+    background-color: #444; /* Cambia el color de fondo cuando el mouse se desplaza sobre los elementos de anclaje del menú */
+}
+
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para los enlaces */
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+/* Estilos para los encabezados (h1, h2, h3, h4, h5, h6) */
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para el contenedor principal de la aplicación */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+
+
+/* Estilos para el menú  */
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    display: inline-block;
+    padding: 5px 10px;
+}
+
+nav ul li a:hover {
+    background-color: #444;
+}
+
+
+
+/* Estilos para el contenido principal */
+main {
+    padding: 20px;
+}

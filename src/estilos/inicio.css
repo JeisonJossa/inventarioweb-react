@@ -1,0 +1,29 @@
+/* Estilo del contenedor principal */
+div {
+  background-color: #f5f5f5; /* Fondo del contenedor */
+  border-radius: 10px; /* Bordes redondeados del contenedor */
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); /* Sombra del contenedor */
+  text-align: center; /* Alineación del texto al centro */
+}
+
+/* Estilo de los párrafos */
+p {
+  font-size: 1.2rem; /* Tamaño de fuente de los párrafos */
+  line-height: 1.5; /* Espacio entre líneas de los párrafos */
+  margin-bottom: 1.5rem; /* Margen inferior de los párrafos */
+
+}
+
+/* Estilo de la lista de funcionalidades */
+ul {
+    padding: 2rem; /* Espacio interno del contenedor */
+    margin: 2rem; /* Margen del contenedor */
+
+}
+
+/* Estilo de los ítems de la lista de funcionalidades */
+li {
+    text-align: center; /* Alineación del texto al centro */
+  font-size: 1.2rem; /* Tamaño de fuente de los ítems */
+  margin-bottom: 0.5rem; /* Margen inferior de los ítems */
+}

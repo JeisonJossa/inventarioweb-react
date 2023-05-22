@@ -1,0 +1,50 @@
+[
+  {
+    "idmovimiento": 1,
+    "idarticulo": 1,
+    "nombrearticulo": "Bicicleta de montaña",
+    "cantidad": 2,
+    "tipo": "entrada",
+    "fecha": "2022-04-25T08:00:00.000Z"
+  },
+  {
+    "idmovimiento": 2,
+    "idarticulo": 3,
+    "nombrearticulo": "Casco de montaña",
+    "cantidad": 5,
+    "tipo": "entrada",
+    "fecha": "2022-04-26T10:00:00.000Z"
+  },
+  {
+    "idmovimiento": 3,
+    "idarticulo": 1,
+    "nombrearticulo": "Bicicleta de montaña",
+    "cantidad": 1,
+    "tipo": "salida",
+    "fecha": "2022-04-26T15:00:00.000Z"
+  },
+  {
+    "idmovimiento": 4,
+    "idarticulo": 4,
+    "nombrearticulo": "Casco de ruta",
+    "cantidad": 3,
+    "tipo": "entrada",
+    "fecha": "2022-04-27T09:00:00.000Z"
+  },
+  {
+    "idmovimiento": 5,
+    "idarticulo": 1,
+    "nombrearticulo": "Bicicleta de montaña",
+    "cantidad": 4,
+    "tipo": "entrada",
+    "fecha": "2022-04-27T14:00:00.000Z"
+  },
+  {
+    "idmovimiento": 6,
+    "idarticulo": 2,
+    "nombrearticulo": "Bicicleta de ruta",
+    "cantidad": 1,
+    "tipo": "salida",
+    "fecha": "2022-04-28T11:00:00.000Z"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "IdCategoria": 1,
+    "NombreCategoria": "Ruedas"
+  },
+  {
+    "IdCategoria": 2,
+    "NombreCategoria": "Frenos"
+  },
+  {
+    "IdCategoria": 3,
+    "NombreCategoria": "Pedales"
+  },
+  {
+    "IdCategoria": 4,
+    "NombreCategoria": "Asientos"
+  },
+  {
+    "IdCategoria": 5,
+    "NombreCategoria": "Manillares"
+  },
+  {
+    "IdCategoria": 6,
+    "NombreCategoria": "Luces"
+  },
+  {
+    "IdCategoria": 7,
+    "NombreCategoria": "Cascos"
+  },
+  {
+    "IdCategoria": 8,
+    "NombreCategoria": "Cadenas"
+  },
+  {
+    "IdCategoria": 9,
+    "NombreCategoria": "Cámaras"
+  },
+  {
+    "IdCategoria": 10,
+    "NombreCategoria": "Llantas"
+  },
+  {
+    "IdCategoria": 11,
+    "NombreCategoria": "Cubiertas"
+  },
+  {
+    "IdCategoria": 12,
+    "NombreCategoria": "Bicicletas"
+  },
+  {
+    "IdCategoria": 13,
+    "NombreCategoria": "Accesorios"
+  },
+  {
+    "IdCategoria": 14,
+    "NombreCategoria": "Herramientas"
+  },
+  {
+    "IdCategoria": 15,
+    "NombreCategoria": "Repuestos"
+  },
+  {
+    "IdCategoria": 16,
+    "NombreCategoria": "Vestimenta"
+  },
+  {
+    "IdCategoria": 17,
+    "NombreCategoria": "Protecciones"
+  },
+  {
+    "IdCategoria": 18,
+    "NombreCategoria": "Otros"
+  },
+  {
+    "IdCategoria": 19,
+    "NombreCategoria": "Componentes"
+  },
+  {
+    "IdCategoria": 20,
+    "NombreCategoria": "Neumáticos"
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "usuario": [
+    {
+      "IdUsuario": 1,
+      "NombreUsuario": "admin",
+      "CorreoElectronico": "admin@inventarioweb.com",
+      "Contrasena": "123456",
+      "EsAdmin": 1
+    },
+    {
+      "IdUsuario": 2,
+      "NombreUsuario": "jose",
+      "CorreoElectronico": "jose@gmail.com",
+      "Contrasena": "qwerty",
+      "EsAdmin": 0
+    },
+    {
+      "IdUsuario": 3,
+      "NombreUsuario": "ana",
+      "CorreoElectronico": "ana@hotmail.com",
+      "Contrasena": "securepass",
+      "EsAdmin": 0
+    },
+    {
+      "IdUsuario": 4,
+      "NombreUsuario": "juan",
+      "CorreoElectronico": "juan@yahoo.com",
+      "Contrasena": "password123",
+      "EsAdmin": 0
+    },
+    {
+      "IdUsuario": 5,
+      "NombreUsuario": "maria",
+      "CorreoElectronico": "maria@gmail.com",
+      "Contrasena": "secret123",
+      "EsAdmin": 0
+    },
+    {
+      "IdUsuario": 6,
+      "NombreUsuario": "carlos",
+      "CorreoElectronico": "carlos@hotmail.com",
+      "Contrasena": "password456",
+      "EsAdmin": 0
+    },
+    {
+      "IdUsuario": 7,
+      "NombreUsuario": "laura",
+      "CorreoElectronico": "laura@gmail.com",
+      "Contrasena": "1234",
+      "EsAdmin": 0
+    },
+    {
+      "IdUsuario": 8,
+      "NombreUsuario": "jorge",
+      "CorreoElectronico": "jorge@yahoo.com",
+      "Contrasena": "987654",
+      "EsAdmin": 0
+    }
+  ]
+}
